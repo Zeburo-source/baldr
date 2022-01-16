@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.card{
+	width: 500px;
+	height: 900px;
+}
+.card div{
+	display: flex;
+ 	flex-flow: column nowrap;
+ 	align-items: flex-start;
+ 	align-content: center;
+ 	height: 200px;
+}
+.title{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	line-height: 84px;
+}
+.about{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 36px;
+	line-height: 42px;
+}
